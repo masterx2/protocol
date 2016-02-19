@@ -1,0 +1,26 @@
+{
+  "name": "chat.local",
+  "version": "0.0.0",
+  "authors": [
+    "Курганников Дмитрий <true.masterx2@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "bootstrap": "~3.3.6",
+    "angular": "~1.4.8",
+    "egg.js": "*",
+    "lodash": "*",
+    "handlebars": "*",
+    "requirejs": "*",
+    "signals": "~1.0.0",
+    "cookie": "~1.1.0"
+  }
+}
